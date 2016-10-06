@@ -1,2 +1,7 @@
 .idea
 *.iml
+bin
+lib
+include
+pip-selfcheck.json
+pyvenv.cfg
